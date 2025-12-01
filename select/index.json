@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "迷路日々",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T01:13:42.645647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "迷路日々",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_迷路日々_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "迷路日々",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_迷路日々_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "迷路日々 - Melody",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_迷路日々_-_Melody_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "迷路日々 (Anime Ver.)",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_迷路日々_(Anime_Ver.)_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "迷路日々",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/05_迷路日々_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "迷路日々(ちいさな一瞬 ver.)",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/06_迷路日々(ちいさな一瞬_ver.)_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "迷路日々",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_迷路日々_MyGO!!!!!.txt"
+    }
+  ]
+}
